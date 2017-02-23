@@ -1,6 +1,6 @@
-# vue-cli
+# Trade Stocks
 
-> A Vue.js project
+> Trade Stocks Web Application Using VueJS 2 inclide Vuex and Firebase
 
 ## Build Setup
 
